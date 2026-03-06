@@ -68,7 +68,7 @@ Pandas • NumPy • Matplotlib • Scikit-Learn
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=handaaditya470-bit&show_icons=true&theme=tokyonight" />
-
+https://streak-stats.demolab.com/?user=handaaditya470-bit&theme=tokyonight
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=handaaditya470-bit&theme=tokyonight" />
 
 </p>
@@ -79,7 +79,7 @@ Pandas • NumPy • Matplotlib • Scikit-Learn
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handaaditya470-bit&layout=compact&theme=tokyonight" />
+https://github-readme-stats.vercel.app/api/top-langs/?username=handaaditya470-bit&layout=compact&theme=tokyonight
 
 </p>
 
@@ -89,8 +89,7 @@ Pandas • NumPy • Matplotlib • Scikit-Learn
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/handaaditya470-bit/handaaditya470-bit/output/github-contribution-grid-snake.svg">
-
+https://github-readme-stats.vercel.app/api?username=handaaditya470-bit&show_icons=true&theme=tokyonight
 </p>
 
 ---
