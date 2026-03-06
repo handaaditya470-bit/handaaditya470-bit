@@ -63,35 +63,27 @@ Pandas • NumPy • Matplotlib • Scikit-Learn
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=handaaditya470-bit&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=handaaditya470-bit&theme=tokyonight" />
+</p>
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=handaaditya470-bit&show_icons=true&theme=tokyonight" />
-https://streak-stats.demolab.com/?user=handaaditya470-bit&theme=tokyonight
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=handaaditya470-bit&theme=tokyonight" />
+## 💻 Most Used Languages
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handaaditya470-bit&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-# 📈 Most Used Languages
+## 🐍 Contribution Snake
 
 <p align="center">
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=handaaditya470-bit&layout=compact&theme=tokyonight
-
+  <img src="https://raw.githubusercontent.com/handaaditya470-bit/handaaditya470-bit/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-https://github-readme-stats.vercel.app/api?username=handaaditya470-bit&show_icons=true&theme=tokyonight
-</p>
-
 ---
 
 # 👀 Profile Views
