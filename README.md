@@ -62,7 +62,7 @@ Pandas • NumPy • Matplotlib • Scikit-Learn
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=handaaditya470-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=handaaditya470-bit&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -78,7 +78,7 @@ Pandas • NumPy • Matplotlib • Scikit-Learn
 # 💻 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handaaditya470-bit&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=handaaditya470-bit&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -96,7 +96,7 @@ Pandas • NumPy • Matplotlib • Scikit-Learn
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/handaaditya470-bit/handaaditya470-bit/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/handaaditya470-bit/handaaditya470-bit/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
