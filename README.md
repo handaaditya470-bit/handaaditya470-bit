@@ -10,8 +10,8 @@
 ## 👨‍💻 About Me
 
 🎓 **B.Tech CSE (3rd Year)** Student from India  
-💡 Passionate about **AI, Software Development, and Building Tech Products**  
-🚀 Currently learning **Machine Learning, Data Structures & Cloud**  
+💡 Passionate about **Artificial Intelligence, Software Development & Tech Products**  
+🚀 Currently learning **Machine Learning, Data Structures & Cloud Computing**  
 🧠 Interested in **AI, Web Development, Startups & Open Source**  
 📈 Love building projects that solve **real-world problems**
 
@@ -21,9 +21,9 @@
 
 🔭 Working on **AI & Machine Learning Projects**  
 🌱 Learning **Advanced DSA, Cloud Computing & Deep Learning**  
-👯 Looking to collaborate on **Open Source & AI projects**  
+👯 Looking to collaborate on **Open Source & AI Projects**  
 💬 Ask me about **Java, Python, Web Development & Beginner AI**  
-⚡ Fun fact: *I love building tech startups and solving puzzles*
+⚡ Fun fact: *I enjoy solving puzzles and building startup ideas*
 
 ---
 
@@ -41,11 +41,7 @@
 <img src="https://skillicons.dev/icons?i=django,flask,react,nodejs,firebase" />
 </p>
 
-### 📊 Data & ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+### 📊 Data & Machine Learning
 
 Pandas • NumPy • Matplotlib • Scikit-Learn
 
@@ -63,25 +59,34 @@ Pandas • NumPy • Matplotlib • Scikit-Learn
 
 ---
 
- ## 📊 GitHub Stats
-<p>
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=handaaditya470-bit&show_icons=true&theme=tokyonight)
-</p>
----
-
-## 💻 Most Used Languages
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handaaditya470-bit&layout=compact&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=handaaditya470-bit&show_icons=true&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/handaaditya470-bit/handaaditya470-bit/output/github-contribution-grid-snake.svg" />
+
+<img src="https://streak-stats.demolab.com?user=handaaditya470-bit&theme=tokyonight&hide_border=true" />
+
 </p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handaaditya470-bit&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
 ---
 
 # 👀 Profile Views
@@ -94,7 +99,17 @@ Pandas • NumPy • Matplotlib • Scikit-Learn
 
 ---
 
-## 🌐 Connect With Me
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/handaaditya470-bit/handaaditya470-bit/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -107,13 +122,14 @@ Pandas • NumPy • Matplotlib • Scikit-Learn
 </a>
 
 </p>
+
 ---
 
 # 🚀 2026 Goals
 
 ✅ Contribute to **Open Source Projects**  
-✅ Build **AI based real-world applications**  
-✅ Participate in **Google Summer of Code**  
+✅ Build **AI-based real world applications**  
+✅ Participate in **Google Summer of Code (GSoC)**  
 ✅ Launch **my own AI product**
 
 ---
