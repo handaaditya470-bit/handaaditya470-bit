@@ -96,20 +96,19 @@ Pandas • NumPy • Matplotlib • Scikit-Learn
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="mailto:handaaditya470@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-handaaditya470@gmail.com-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/handaaditya470-bit">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<a href="https://www.linkedin.com/in/aditya-handa1">
+<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Handa-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
-
 ---
 
 # 🚀 2026 Goals
