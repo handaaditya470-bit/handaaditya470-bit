@@ -63,11 +63,9 @@ Pandas • NumPy • Matplotlib • Scikit-Learn
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=handaaditya470-bit&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=handaaditya470-bit&theme=tokyonight" />
+ ## 📊 GitHub Stats
+<p>
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=handaaditya470-bit&show_icons=true&theme=tokyonight)
 </p>
 ---
 
