@@ -121,7 +121,7 @@ Pandas • NumPy • Matplotlib • Scikit-Learn
 
 ✅ Contribute to **Open Source Projects**  
 ✅ Build **AI-based real world applications**  
-✅ Participate in **Google Summer of Code (GSoC)**  
+✅ Participate in **Hackathons**  
 ✅ Launch **my own AI product**
 
 ---
