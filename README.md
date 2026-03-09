@@ -38,7 +38,7 @@
 ### ⚙️ Frameworks & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,flask,react,nodejs,firebase" />
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs,firebase" />
 </p>
 
 ### 📊 Data & Machine Learning
