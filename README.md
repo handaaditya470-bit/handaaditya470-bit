@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI Engineer | B.Tech CSE Student | Full Stack & ML Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Explorer;Full+Stack+Developer;Open+Source+Learner;Future+Backend+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer,AI+Engineer;Machine+Learning+Explorer;Full+Stack+Developer;Open+Source+Learner;" />
 </p>
 
 <p align="center">
