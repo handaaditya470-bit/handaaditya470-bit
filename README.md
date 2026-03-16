@@ -1,44 +1,71 @@
 <h1 align="center">Hi 👋, I'm Aditya Handa</h1>
+<h3 align="center">🚀 AI Engineer | B.Tech CSE Student | Full Stack & ML Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Backend+Developer;Open+Source+Learner;Future+GSoC+Contributor" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Explorer;Full+Stack+Developer;Open+Source+Learner;Future+Tech+Entrepreneur" />
 </p>
 
----
-
-## 🚀 About Me
-
-🎓 3rd Year Computer Science Student  
-💻 Backend Developer  
-🌱 Currently learning **Kafka, Kubernetes, Spring Boot, MongoDB**  
-🚀 Building **TradePur – Real Time Stock Market Web App**  
-🎯 Goal: **Open Source Contributions & GSoC 2026**
-
----
-
-# 🛠️ Tech Stack
-
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,django,git,github,mongodb,mysql,linux,vscode" />
+<img src="https://komarev.com/ghpvc/?username=handaaditya470-bit&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/handaaditya470-bit?label=Followers&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/stars/handaaditya470-bit?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 👨‍💻 About Me
 
-🔹 **TradePur**  
-Real-time stock market web application with TradingView charts and Django backend.
+🎓 **B.Tech CSE (3rd Year)** Student from India  
+💡 Passionate about **Artificial Intelligence, Software Development & Tech Products**  
+🚀 Currently learning **Machine Learning, Data Structures & Cloud Computing**  
+🧠 Interested in **AI, Web Development, Startups & Open Source**  
+📈 Love building projects that solve **real-world problems**
 
-🔹 **Real Time Gold Rate App**  
-Live gold and silver price tracking system.
+---
 
-🔹 **Mastipur Desktop Assistant**  
-Python-based desktop automation assistant.
+## 🎯 Current Focus
 
-🔹 **Car Rental System**  
-Java based vehicle rental management system.
+🔭 Working on **AI & Machine Learning Projects**  
+🌱 Learning **Advanced DSA, Cloud Computing & Deep Learning**  
+👯 Looking to collaborate on **Open Source & AI Projects**  
+💬 Ask me about **Java, Python, Web Development & Beginner AI**  
+⚡ Fun fact: *I enjoy solving puzzles and building startup ideas*
+
+---
+
+# 🚀 Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" />
+</p>
+
+### ⚙️ Frameworks & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs,firebase" />
+</p>
+
+### 📊 Data & Machine Learning
+
+Pandas • NumPy • Matplotlib • Scikit-Learn
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
 
@@ -46,9 +73,17 @@ Java based vehicle rental management system.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=handaaditya470-bit&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=handaaditya470-bit&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=handaaditya470-bit&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=handaaditya470-bit&theme=tokyonight"/>
 
 </p>
 
@@ -58,7 +93,7 @@ Java based vehicle rental management system.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handaaditya470-bit&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=handaaditya470-bit&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -78,7 +113,17 @@ Java based vehicle rental management system.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=handaaditya470-bit&theme=tokyonight&no-frame=true&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=handaaditya470-bit&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=handaaditya470-bit&label=Profile%20Views&color=blue&style=for-the-badge" />
 
 </p>
 
@@ -94,30 +139,35 @@ Java based vehicle rental management system.
 
 ---
 
-# 📊 Profile Views
+# 🌐 Connect With Me
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=handaaditya470-bit&label=Profile%20Views&color=blue&style=for-the-badge"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="mailto:handaaditya470@gmail.com">
+<img src="https://img.shields.io/badge/Email-handaaditya470@gmail.com-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://www.linkedin.com/in/aditya-handa1">
+<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Handa-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
 
 ---
 
-⭐ From [Aditya Handa](https://github.com/handaaditya470-bit)
+# 🚀 2026 Goals
+
+✅ Contribute to **Open Source Projects**  
+✅ Build **AI-based real world applications**  
+✅ Participate in **Hackathons**  
+✅ Launch **my own AI product**
+
+---
+
+# ⭐ Quote I Believe In
+
+> **"Code is like humor. When you have to explain it, it’s bad." – Cory House**
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**
