@@ -4,7 +4,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;AI+Engineer;Machine+Learning+Explorer;Full+Stack+Developer;Open+Source+Learner;" />
 </p>
-
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=handaaditya470-bit&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
